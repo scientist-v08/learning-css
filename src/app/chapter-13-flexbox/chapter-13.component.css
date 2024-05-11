@@ -1,0 +1,21 @@
+.container {
+  max-width: 800px;
+  min-height: 400px;
+  margin-inline: auto; /* This centres the content horizontally */
+  border: 1px solid #000;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+}
+.box {
+  min-width: 100px;
+  height: 100px;
+  background-color: #000;
+  color: #fff;
+  font-size: 2rem;
+  padding: 0.5rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

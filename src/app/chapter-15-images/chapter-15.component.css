@@ -1,0 +1,10 @@
+.example{
+  margin-top: 1rem;
+  padding-left: 20px;
+  border: 1px solid red;
+}
+img { display: block; }
+.example img {
+  width: 25%;
+  height: auto;
+}

@@ -1,0 +1,69 @@
+/* You can add global styles to this file, and also import other style files */
+
+/* Chapter 02 starts here
+* {
+  font-family: monospace; for all elements the font would be monospace
+}
+body {
+  font-size: 138%;
+}
+Ends here
+*/
+/** Chapter 03 starts here **/
+/* body {
+  font-size: 138%;
+  font-family: Arial, Helvetica, sans-serif;
+  line-height: 1.5;
+  background-color: papayawhip;
+  color: #333333;
+} */
+/** Ends here **/
+/* Chapter 05 and chapter 06 and chapter 07*/
+/* @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+* {
+  margin:0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.body{
+  margin: 0.5rem;
+  font-family: "Roboto", sans-serif;
+  text-align: center;
+} */
+/* All of it ends here */
+/* 8, 9, 10, 11, 12 starts here */
+/* @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+body {
+  font-size: 1.5rem;
+  font-family: "Roboto", sans-serif;
+  min-height: 200vh;
+} And ends here*/
+/* Chapter -13,14 */
+/* @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: "Roboto", sans-serif;
+  min-height: 100vh;
+} Ends here*/
+/* Chapter 15 */
+@import url("https://fonts.googleapis.com/css2?family=Nunito&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Nunito", sans-serif;
+  min-height: 100vh;
+}
