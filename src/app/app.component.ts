@@ -1,16 +1,16 @@
 import { Component } from '@angular/core';
 import { CommonModule } from '@angular/common';
-import { Chapter15Component } from './chapter-15-images/chapter-15.component';
+import { Chapter16Component } from './chapter-16-media-queries/chapter-16.component';
 
 @Component({
   selector: 'lcss-root',
   standalone: true,
   imports: [
     CommonModule,
-    Chapter15Component
+    Chapter16Component
   ],
   template: `
-  <lcss-chapter-15></lcss-chapter-15>
+  <lcss-chapter-16></lcss-chapter-16>
   `,
 })
 export class AppComponent {}
