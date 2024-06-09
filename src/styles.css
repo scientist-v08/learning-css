@@ -70,7 +70,7 @@ html{
 :root {
   /* FONT */
   --FF: "Nunito", sans-serif;
-  --FS: 1.5rem;
+  --FS: clamp(1.75rem, 3vh, 2.25rem);
   --FS-XL: 3rem;
 
   /* COLOR */
@@ -100,5 +100,6 @@ html{
 }
 
 body {
-  font: var(--FS) var(--FF);
+  font-size: var(--FS);
+  font-family: var(--FF);
 }
